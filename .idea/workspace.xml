@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2b9d7c7-9c7c-4df7-a599-fbe653f179c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_04/LeetCode127" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/LeetCode200" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/LeetCode122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/LeetCode127.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/LeetCode153.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/LeetCode200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/LeetCode33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/LeetCode455.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/LeetCode55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/LeetCode74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/LeetCode860.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +81,8 @@
       <workItem from="1587818214768" duration="10000" />
       <workItem from="1588581546799" duration="2167000" />
       <workItem from="1589075483214" duration="2080000" />
-      <workItem from="1589123128185" duration="130000" />
+      <workItem from="1589123128185" duration="812000" />
+      <workItem from="1589704497850" duration="675000" />
     </task>
     <servers />
   </component>
